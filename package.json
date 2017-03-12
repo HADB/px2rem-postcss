@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "postcss": "^5.0.0",
-    "px2rem": "~0.5.0"
+    "px2rem": "git+https://github.com/HADB/px2rem.git"
   },
   "devDependencies": {
     "mocha": "^2.1.0",
